@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="99" started-at="2020-05-21T16:03:36 IST" finished-at="2020-05-21T16:03:36 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="99" started-at="2020-05-21T16:03:36 IST" finished-at="2020-05-21T16:03:36 IST">
+      <class name="SKTest.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:SKTest.MavenJava.AppiumTest@6325a3ee]" name="NativeAppAndroid" duration-ms="10" started-at="2020-05-21T16:03:36 IST" finished-at="2020-05-21T16:03:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="iosApp()[pri:0, instance:SKTest.MavenJava.AppiumTest@6325a3ee]" name="iosApp" duration-ms="1" started-at="2020-05-21T16:03:36 IST" finished-at="2020-05-21T16:03:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+      </class> <!-- SKTest.MavenJava.AppiumTest -->
+      <class name="SKTest.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:SKTest.MavenJava.SeleniumTest@67b92f0a]" name="browserAutomation" duration-ms="2" started-at="2020-05-21T16:03:36 IST" finished-at="2020-05-21T16:03:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="uiElements()[pri:0, instance:SKTest.MavenJava.SeleniumTest@67b92f0a]" name="uiElements" duration-ms="0" started-at="2020-05-21T16:03:36 IST" finished-at="2020-05-21T16:03:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiElements -->
+      </class> <!-- SKTest.MavenJava.SeleniumTest -->
+      <class name="SKTest.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="restAPI1()[pri:0, instance:SKTest.MavenJava.RestAPITest@1d16f93d]" name="restAPI1" duration-ms="1" started-at="2020-05-21T16:03:36 IST" finished-at="2020-05-21T16:03:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPI1 -->
+        <test-method status="PASS" signature="restAPI2()[pri:0, instance:SKTest.MavenJava.RestAPITest@1d16f93d]" name="restAPI2" duration-ms="1" started-at="2020-05-21T16:03:36 IST" finished-at="2020-05-21T16:03:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPI2 -->
+      </class> <!-- SKTest.MavenJava.RestAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
